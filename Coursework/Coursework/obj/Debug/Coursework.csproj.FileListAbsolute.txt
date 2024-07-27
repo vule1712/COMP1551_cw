@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\COMP1551\coursework\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\admin\source\repos\COMP1551\coursework\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\admin\source\repos\COMP1551\coursework\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\admin\source\repos\COMP1551\coursework\Coursework\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\COMP1551\coursework\Coursework\Coursework\obj\Debug\Coursework.Login.resources
+C:\Users\admin\source\repos\COMP1551\coursework\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\admin\source\repos\COMP1551\coursework\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\COMP1551\coursework\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\COMP1551\coursework\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\admin\source\repos\COMP1551\coursework\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\admin\source\repos\COMP1551\coursework\Coursework\Coursework\bin\Debug\Database1.mdf
+C:\Users\admin\source\repos\COMP1551\coursework\Coursework\Coursework\bin\Debug\Database1_log.ldf
+C:\Users\admin\source\repos\COMP1551\coursework\Coursework\Coursework\obj\Debug\Coursework.Student_DIS.resources
+C:\Users\admin\source\repos\COMP1551\coursework\Coursework\Coursework\obj\Debug\Coursework.Teacher_DIS.resources
+C:\Users\admin\source\repos\COMP1551\coursework\Coursework\Coursework\obj\Debug\Coursework.Admin_DIS.resources
+C:\Users\admin\source\repos\COMP1551\coursework\Coursework\Coursework\obj\Debug\Coursework.Login_Admin.resources
